@@ -1,0 +1,31 @@
+.tabla {
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 300px;
+	background-color: cornflowerblue;
+	padding: 0 auto;
+	border-style: groove;
+	border-radius: 10px;
+}
+.bt{
+	width: 70px;
+	height: 70px;
+	margin: 0 auto;
+	font-size: 25px;
+	border-radius: 5px;
+}
+
+#pant{
+	padding: 30px;
+    width: 306px;
+	margin-left: 525px;
+	border-radius: 5px;
+	border-style: ridge;
+	border-width: 3px;
+	font-size: 25px;
+}
+.bt:hover{
+	color: blue;
+	font-size: 40px;
+}
